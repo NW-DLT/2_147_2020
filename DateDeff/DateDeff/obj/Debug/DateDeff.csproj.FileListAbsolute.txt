@@ -1,0 +1,7 @@
+C:\Users\Рабочий\source\repos\DateDeff\DateDeff\bin\Debug\DateDeff.exe.config
+C:\Users\Рабочий\source\repos\DateDeff\DateDeff\bin\Debug\DateDeff.exe
+C:\Users\Рабочий\source\repos\DateDeff\DateDeff\bin\Debug\DateDeff.pdb
+C:\Users\Рабочий\source\repos\DateDeff\DateDeff\obj\Debug\DateDeff.csprojAssemblyReference.cache
+C:\Users\Рабочий\source\repos\DateDeff\DateDeff\obj\Debug\DateDeff.csproj.CoreCompileInputs.cache
+C:\Users\Рабочий\source\repos\DateDeff\DateDeff\obj\Debug\DateDeff.exe
+C:\Users\Рабочий\source\repos\DateDeff\DateDeff\obj\Debug\DateDeff.pdb
