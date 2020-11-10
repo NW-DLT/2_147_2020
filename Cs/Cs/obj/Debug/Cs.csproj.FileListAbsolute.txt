@@ -1,0 +1,7 @@
+C:\Users\Рабочий\source\repos\Cs\Cs\bin\Debug\Cs.exe.config
+C:\Users\Рабочий\source\repos\Cs\Cs\bin\Debug\Cs.exe
+C:\Users\Рабочий\source\repos\Cs\Cs\bin\Debug\Cs.pdb
+C:\Users\Рабочий\source\repos\Cs\Cs\obj\Debug\Cs.csprojAssemblyReference.cache
+C:\Users\Рабочий\source\repos\Cs\Cs\obj\Debug\Cs.csproj.CoreCompileInputs.cache
+C:\Users\Рабочий\source\repos\Cs\Cs\obj\Debug\Cs.exe
+C:\Users\Рабочий\source\repos\Cs\Cs\obj\Debug\Cs.pdb
